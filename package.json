@@ -1,0 +1,20 @@
+{
+  "name": "panelpachi",
+  "version": "1.0.0",
+  "description": "PanelPachi is a web application designed to streamline the manga editing process using machine learning-powered tools. It enables users to remove unwanted text, objects, and sound effects (SFX) from manga pages, translate Japanese text seamlessly, and reinsert translated text into the correct positions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaKasher/PanelPachi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaKasher/PanelPachi/issues"
+  },
+  "homepage": "https://github.com/KaKasher/PanelPachi#readme"
+}
