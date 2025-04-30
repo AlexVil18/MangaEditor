@@ -1,4 +1,28 @@
-# Start Generation Here
+# Dependencies
+node_modules/
 .venv/
 __pycache__/
 .cursor/
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Build
+dist/
+build/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Do NOT ignore these files
+!Procfile
+!runtime.txt
